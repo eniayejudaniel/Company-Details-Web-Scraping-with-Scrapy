@@ -5,7 +5,7 @@
 This Python script demonstrates web scraping using Scrapy, a popular web scraping framework, to extract data from a website containing information about companies. The scraped data is then saved to a CSV file and converted to an Excel file for further analysis and use.
 
 # Table of Contents
-[Overview](#Overview)
+- [Overview](#Overview)
 [Installation](#Installation)
 [Usage](#Usage)
 [Technologies Used](Technologies-Used)
