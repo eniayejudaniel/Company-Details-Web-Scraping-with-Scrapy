@@ -8,7 +8,7 @@ This Python script demonstrates web scraping using Scrapy, a popular web scrapin
 - [Overview](#Overview)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Technologies Used](Technologies-Used)
+- [Technologies Used](technologies-used)
 - [Customization](#Customization)
 - [Notes](#Notes)
 - [Contributing](#Contributing)
@@ -31,7 +31,7 @@ Open a terminal or command prompt and navigate to the directory where the ```Com
 Run the script using the following command:
 
 Use this code
-python ```Company Details -checkpoint.ipynb```
+```python Company Details -checkpoint.ipynb```
 
 The script will initiate the web scraping process using Scrapy. It will extract company information from this "[website](https://vdiv-bw.de/verwaltersuche/?no_cache=1&tx_browser_pi1%5Bradius%5D=50&page=1)".
 
