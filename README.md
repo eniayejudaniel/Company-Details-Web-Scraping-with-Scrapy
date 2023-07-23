@@ -6,20 +6,20 @@ This Python script demonstrates web scraping using Scrapy, a popular web scrapin
 
 # Table of Contents
 - [Overview](#Overview)
-[Installation](#Installation)
-[Usage](#Usage)
-[Technologies Used](Technologies-Used)
-[Customization](#Customization)
-[Notes](#Notes)
-[Contributing](#Contributing)
-[License](#License)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Technologies Used](Technologies-Used)
+- [Customization](#Customization)
+- [Notes](#Notes)
+- [Contributing](#Contributing)
+- [License](#License)
 
 # Installation
 Before running the script, ensure you have the following installed:
 
-Python (version 3.6 or higher)
-Scrapy (install using ```pip install scrapy```)
-Pandas (install using ```pip install pandas```)
+- Python (version 3.6 or higher)
+- Scrapy (install using ```pip install scrapy```)
+- Pandas (install using ```pip install pandas```)
 
 # Usage
 Clone the repository or download the Python script file (```Company Details -checkpoint.ipynb```) to your local machine.
@@ -41,9 +41,9 @@ Once the scraping process is completed, the script will convert the CSV data to 
 
 # Technologies Used
 
--Python
--Scrapy
--Pandas
+- Python
+- Scrapy
+- Pandas
 
 # Customization
 
@@ -62,6 +62,6 @@ This script is intended for educational and demonstration purposes. Use it respo
 
 Contributions are welcome! If you find any issues or want to enhance the script, feel free to submit a pull request.
 
-## License
+# License
 
 This project is licensed under the [MIT License](LICENSE).
