@@ -1,7 +1,7 @@
 # Company-Details-Web-Scraping-with-Scrapy and Saving Data to CSV and Excel
----
-Overview
----
+
+# Overview
+
 This Python script demonstrates web scraping using Scrapy, a popular web scraping framework, to extract data from a website containing information about companies. The scraped data is then saved to a CSV file and converted to an Excel file for further analysis and use.
 
 # Prerequisites
@@ -12,11 +12,11 @@ Scrapy (install using ```pip install scrapy```)
 Pandas (install using ```pip install pandas```)
 
 # Usage
-Clone the repository or download the Python script file (Company Details -checkpoint.ipynb) to your local machine.
+Clone the repository or download the Python script file (```Company Details -checkpoint.ipynb```) to your local machine.
 
-Install the required Python libraries using the commands mentioned in the "Prerequisites" section.
+Install the required Python libraries using the commands mentioned in the "[Prerequisites](Prerequisites)" section.
 
-Open a terminal or command prompt and navigate to the directory where the Company Details -checkpoint.ipynb file is located.
+Open a terminal or command prompt and navigate to the directory where the ```Company Details -checkpoint.ipynb``` file is located.
 
 Run the script using the following command:
 
@@ -27,7 +27,7 @@ The script will initiate the web scraping process using Scrapy. It will extract 
 
 The scraped data will be saved to a CSV file named companies_output.csv, located in the same directory as the script.
 
-Once the scraping process is completed, the script will convert the CSV data to an Excel file named companies_output.xlsx and save it to the specified output path (C:\Users\USER\Desktop\Data Extraction\Succesful Scraping\companies_output.xlsx).
+Once the scraping process is completed, the script will convert the CSV data to an Excel file named companies_output.xlsx and save it to the specified output path 
 
 # Customization
 
